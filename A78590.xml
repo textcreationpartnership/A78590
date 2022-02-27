@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of an Oxford-incendiary.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78590</idno>
+            <idno type="STC">Wing C2014</idno>
+            <idno type="STC">Thomason E279_6</idno>
+            <idno type="STC">ESTC R200029</idno>
+            <idno type="EEBO-CITATION">99860831</idno>
+            <idno type="PROQUEST">99860831</idno>
+            <idno type="VID">112956</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112956)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E279[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of an Oxford-incendiary.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication and publisher's name from colophon; publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 26 1645 London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="character">
+            <pb n="1" facs="tcp:112956:1" rendition="simple:additions"/>
+            <head>THE CHARACTER OF AN Oxford-Incendiary.</head>
+            <p>
+               <seg rend="decorInit">A</seg>N <hi>Oxford Incendiary</hi> is a Court Salamander, whoſe pro<g ref="char:EOLhyphen"/>per element is <hi>Fire:</hi> An <hi>Engliſh</hi>-man, yet lives by <hi>An<g ref="char:EOLhyphen"/>tiperiſtaſis</hi> to his native <hi>Climate;</hi> and turnes our <hi>Nor<g ref="char:EOLhyphen"/>thern-temperate</hi> into the <hi>Torrid Zone.</hi> All ancient <hi>Philo<g ref="char:EOLhyphen"/>ſophers</hi> are by him confuted; having made one <hi>Region</hi> more of Fire than they dream't of: Nor is it any won<g ref="char:EOLhyphen"/>der, ſeeing he creates new <hi>Prodigies</hi> every day.</p>
+            <p>I ſuppoſe him lineally deſcended from St. <hi>Georges</hi> Fiery Dragon; And if you pleaſe to enquire of Doctor <hi>Heylyn,</hi> he may chance to make good the <hi>Heraldry.</hi> But whoſoever was the <hi>Sire,</hi> mother he hath none that I can heare of; nor do I beleeve, that <hi>Nature,</hi> our common-mother, will own the <hi>Mon<g ref="char:EOLhyphen"/>ſter.</hi> For his Name, you may, (if you pleaſe) make bold with <hi>Ovid,</hi> and call him <hi>Phaeton;</hi> for he rules the <hi>Chariot of the Sun,</hi> and having gotten the <hi>Reines</hi> in his own hand, hurries all into <hi>Combustion:</hi> yet the deſperate wretch cares not, ſo he may work a <hi>Metamorphoſis</hi> upon the <hi>Nation,</hi> or mingle his own with the <hi>Kingdomes</hi> Aſhes.</p>
+            <p>His <hi>Birth place</hi> I take to be Mount <hi>Aetna;</hi> there <hi>Empedocles</hi> acted the <hi>Man-midwife,</hi> and deliver'd him out at the <hi>Tonnels.</hi> If the <hi>Pope</hi> want a <hi>Leiger</hi> for <hi>Purgatory,</hi> none can fit him better; he being of a <hi>Conſtitution</hi> and <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> ſuitable to the <hi>Service.</hi>
+            </p>
+            <pb n="2" facs="tcp:112956:2"/>
+            <p>But his employment muſt be altogether at home, elſe the <hi>Deluded Fra<g ref="char:EOLhyphen"/>ternity</hi> will grow <hi>chill</hi> in their deſignes here; and to them there's no Sport without a <hi>Fire-drake,</hi> or an <hi>Ignis Fatuus.</hi>
+            </p>
+            <p>To be a little more plain; an <hi>Oxford-Incendiary</hi> is the <hi>excrement</hi> of ill-govern'd <hi>Monarchy;</hi> the vaſt volume of <hi>Treaſon</hi> wrap't up in an <hi>Epitome;</hi> one that feeds the <hi>Vulture Prerogative</hi> with the <hi>Carkaſſe</hi> of the <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> that it may <hi>diſgorge</hi> into his own <hi>Coffers;</hi> and makes a <hi>Mule</hi> (to ſay no worſe). of <hi>Majeſty,</hi> to carry him through all his own <hi>private deſignes</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Publick.</hi>
+            </p>
+            <p>Yet notwithſtanding, his proper <hi>Spheare</hi> is the <hi>Court;</hi> there He ſhines a bright <hi>Conſtellation</hi> of Royall Favour, though the whole <hi>Kingdome</hi> beſide takes him for a <hi>Prodigious Comet,</hi> and behold him with the ſame counte<g ref="char:EOLhyphen"/>nance, as they did that in the yeare 1618. Nor is it without reaſon, when the meaneſt <hi>Prognoſticator</hi> cries, that he portends the ruine of ſome great <hi>Princes.</hi> Upon his <hi>Influence</hi> depends the <hi>Almanack</hi> of <hi>Treaſon;</hi> exactly <hi>Calcu<g ref="char:EOLhyphen"/>lated</hi> for the ſeverall <hi>Meridians</hi> of <hi>England, Scotland, France,</hi> and <hi>Ireland;</hi> for from thence you may judge of all <hi>Eclypſes</hi> between <hi>King</hi> and <hi>Parliament,</hi> or tell what weather will be in <hi>Great Britain</hi> the whole year following.</p>
+            <p>Thus <hi>Jupiter</hi> and <hi>Mars</hi> meeting in <hi>Conjunction</hi> at <hi>York,</hi> with a direfull <hi>Aſpect</hi> threatned miſery to the <hi>Nation;</hi> though it produced no effect, till an Interpoſition of <hi>Malignants</hi> at <hi>Shrewsbury,</hi> and an <hi>oblique</hi> Courſe of <hi>Venus</hi> from <hi>Holland,</hi> bade us expect a <hi>Deluge</hi> of blood.</p>
+            <p>Indeed it may ſerve for <hi>Great Britain</hi> and <hi>Ireland,</hi> with very little (or no) difference; for the <hi>Tragedy</hi> and <hi>Actors</hi> are the ſame, only the <hi>Scenes</hi> are ſe<g ref="char:EOLhyphen"/>verall, the better to dreſſe out the <hi>Plot,</hi> and make it ſeeme more intricate: Thus the rare <hi>Iriſh Commiſſion</hi> was begotten of <hi>Engliſh</hi> parents, when the Earle of <hi>Antrim</hi> was made a <hi>God-father</hi> to the deſigne; though <hi>Ormond</hi> had rather forfeit his <hi>Honour</hi> and <hi>Conſcience,</hi> than ſay they were <hi>Engliſh</hi> Hands which cut the <hi>Proteſtants</hi> throats with an <hi>Iriſh</hi> knife.</p>
+            <p>But this is not all, the train of <hi>Gun-powder</hi> reaches to <hi>Scotland;</hi> and there they light <hi>Matches</hi> to blow up the <hi>fidelity</hi> of that <hi>Nation:</hi> Which not taking effect upon the <hi>Heads,</hi> then <hi>Squib-cracks</hi> are tyed to the very <hi>Breech</hi> of <hi>Thule,</hi> to ſet fire on the <hi>High-land Wilderneſſe;</hi> for in ſuch barren places is their <hi>Harveſts</hi> Rare <hi>Vipers!</hi> who thrive beſt out of the <hi>Sun-ſhine,</hi> in the darke Caves of <hi>Barbariſme</hi> and <hi>Ignorance.</hi>
+            </p>
+            <p>But ſtand off, or provide an <hi>Antidote:</hi> The moſt prodigious <hi>Serpent</hi> comes <hi>crawling</hi> this way; ſome monſtrous <hi>African</hi> or <hi>American,</hi> for ſure it is not of the <hi>Britiſh Broad;</hi> yet every <hi>Cavalier</hi> carries it in his boſome, like a <hi>Tame-Snake:</hi> It is the <hi>Commiſſion of Array,</hi> a very <hi>flying Dragon</hi> hatch't in a Con<g ref="char:EOLhyphen"/>venticle of <hi>Spit-fires;</hi> an illegitimate <hi>By-blow</hi> to ſupplant the <hi>Militia.</hi> It was ſpawned at <hi>White-Hall;</hi> there the <hi>Cock-brain'd Crew</hi> engendred with their Maſters <hi>Female underſtanding:</hi> At <hi>York</hi> it became an <hi>Egge,</hi> O that it had then been cruſh't! But afterwards, ſcarce <hi>pen-feather'd,</hi> it ventur'd a flight toward <hi>Hull;</hi> yet fell ſhort, and was ſore bruiſed. Notwithſtanding this, it crept to <hi>Nottingham;</hi> and there, in hope of recovery, voyded a <hi>Standard,</hi>
+               <pb n="3" facs="tcp:112956:2"/>with a <hi>Declaration</hi> or two; evident <hi>Symptomes</hi> of a <hi>Bloody Flux</hi> at hand.</p>
+            <p>But the <hi>Leeches</hi> not able to draw blood there, betook themſelves weſt<g ref="char:EOLhyphen"/>ward toward <hi>Wales;</hi> and there fell to ſucking at the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther Poſterne</hi> of the <hi>Kingdome:</hi> It was time then to <hi>caſt the water</hi> of the <hi>State,</hi> and purge out the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ments</hi> of the <hi>Body Politique.</hi>
+            </p>
+            <p>Now the <hi>Gaine</hi> begins; Roome for the <hi>Roman Actors:</hi> Here the <hi>Biſhops</hi> wrack themſelves in a <hi>Pulpit,</hi> vomiting up <hi>Daggers</hi> (like <hi>Hocus</hi>) to amaze the <hi>People;</hi> doctrine <hi>Cannon-proofe,</hi> and let the <hi>Devill</hi> make <hi>Application,</hi> ſo he can convert all to his <hi>Majeſties</hi> uſe. If the <hi>Pope</hi> be Commander in Chiefe, it is but reaſon they ſhould be <hi>Major-Generals;</hi> and for Inferiour <hi>Officers,</hi> Deanes and Arch-deacons the only <hi>Colonels;</hi> Prebends <hi>Lieutenant-Colonels;</hi> Big-bellied Parſons <hi>Majors;</hi> Vicars <hi>Captains;</hi> Curates <hi>Euſignes:</hi> And for the reſt, they cannot be wanting, when there are whole <hi>Swarmes</hi> of the ſame Breed of <hi>Caterpill<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi> in both <hi>
+                  <g ref="char:V">Ʋ</g>niverſities.</hi>
+            </p>
+            <p>Theſe are <hi>Spaniels</hi> to the <hi>Incendiary</hi> in hope of Preferment: He leads them in <hi>Couples,</hi> breeds them to <hi>fetch and carry</hi> after his own humour, and to be at the word of <hi>Command:</hi> But the ſport is, to ſee a <hi>Dogge</hi> handle a <hi>Drum-ſtick;</hi> yet theſe docile creatures will do it, and <hi>beat up their Drums</hi> in all <hi>Churches</hi> and <hi>Chappels,</hi> to alarme the People againſt <hi>Reformation</hi> and the <hi>Parliament.</hi> This black <hi>Brigade</hi> are of the ſame linage with the <hi>Incendiary;</hi> he hugs them as his <hi>white-Boyes:</hi> And to ſay the Truth, there is not a hair<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> difference between them; the Chiefe of the <hi>Prelaticall Clergie</hi> being the principall, if not the only <hi>Fire-men:</hi> And therefore it cannot be amiſſe to preſent them in the firſt Rank of <hi>Tragedians,</hi> ſeeing our <hi>Scene</hi> is the pre<g ref="char:EOLhyphen"/>cious <hi>
+                  <g ref="char:V">Ʋ</g>niverſity</hi> of <hi>Oxford.</hi>
+            </p>
+            <p>As the <hi>Prologue</hi> before the <hi>Play,</hi> enter <hi>Canterbury,</hi> the Pope's <hi>Pigmie-Champion,</hi> the meritorious <hi>Traytor,</hi> the Catholique <hi>Demi-Calvering,</hi> the re<g ref="char:EOLhyphen"/>verend <hi>Granado;</hi> who lived to ſet all on ſire, yet eſcap't the <hi>Martyrdom</hi> of hanging to be <hi>quench't</hi> upon a <hi>Scaffold;</hi> whereas the other kind of death had been more ſuitable to his Life, having alwayes been a <hi>Pendant</hi> in the eare of <hi>Majeſty.</hi> This is he that took water lately at the <hi>Tower,</hi> being bound for the <hi>Red Sea;</hi> but that for his preſumption in comparing himſelf with <hi>Chriſt</hi> and His <hi>Apoſtles,</hi> and threatning <hi>Charon</hi> with the <hi>Star-chamber,</hi> he o're<g ref="char:punc">▪</g>turn'd the <hi>Ferry-boat,</hi> and let him drop into <hi>Purgatory:</hi> Thus it is to quarrell with a <hi>Water-man.</hi>
+            </p>
+            <p>A Broome, a Broome; Sweep the <hi>Stage:</hi> Here comes Religion in <hi>Slip-ſhooes</hi> and <hi>Sandals;</hi> Miſtris <hi>Novelties</hi> Gentleman-Uſher clad in <hi>Robes</hi> of <hi>An<g ref="char:EOLhyphen"/>tiquity;</hi> the <hi>Bel-man</hi> of the <hi>Jewiſh</hi> Temple; <hi>Aaron</hi> in the laſt <hi>Edition; Wren</hi> turn'd <hi>Robin redbreſt,</hi> as gay as the <hi>Bird of Paradiſe,</hi> with his man <hi>Pockly<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ton</hi> at his heeles: Theſe two (like <hi>Lightning</hi> and <hi>Thunder</hi>) never parted; two <hi>Dixeſan E<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that conjur'd away all godly Miniſters by <hi>Bell, Booke,</hi> and <hi>Candle:</hi> Their <hi>Charm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> were ſo ſtrong, that nothing could lay them but a <hi>Parliament,</hi> the Kingdoms <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>id<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e.</hi>
+            </p>
+            <p>Now ſingle out <hi>Pockly<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>con</hi> from his <hi>Maſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and couple with him <hi>Heylyn,</hi> two of <hi>Canterbury's</hi> prime <hi>Beagles,</hi> and as famous as his Breed of <hi>Smyrna
+<pb n="4" facs="tcp:112956:3"/>Cats.</hi> Theſe two held a Conſpiracy againſt the <hi>Sabbath;</hi> help't to reare up an <hi>Altar,</hi> with the Title of <hi>Chriſtianum,</hi> ſet up the <hi>Ten Commandement<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> over it, where they might plainly reade themſelves <hi>Sabbath breakers</hi> and <hi>Idola<g ref="char:EOLhyphen"/>ters;</hi> and yet continued to worſhip both it and the <hi>Candle-ſticks,</hi> committing <hi>Fornication</hi> with <hi>Gold</hi> and <hi>Timber.</hi> Nor is this all; <hi>Heylyn</hi> can ſhew more <hi>Tricks</hi> than <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne for a <hi>Biſhoprick:</hi> To make good the <hi>Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an Kalendar,</hi> he will prove St. <hi>George</hi> a Reall <hi>Saint;</hi> and then upon this <hi>Sandy foundation,</hi> creates an imaginary honour to the moſt honourable <hi>Order</hi> of the <hi>Garter;</hi> as if the <hi>Proteſtant</hi> Nobility of this Kingdom would be taken with <hi>Romiſh Gu-gaws,</hi> or pleaſed with ſuch trifling <hi>fetches:</hi> Yet beleeve me, (as the times went) it was a <hi>politick fetch</hi> for <hi>Preferment.</hi>
+            </p>
+            <p>And now we talk of <hi>Preferment,</hi> enter <hi>Owen Glendour</hi> on Horſe-back, <hi>Brute's</hi> Couſin-German, and the <hi>Top of her kindred, Welſh Williams,</hi> the Pre<g ref="char:EOLhyphen"/>late of <hi>York:</hi> This is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pepper-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſed <hi>Caliph,</hi> that ſnuffes, huffes, and puffes Ingratitude at the <hi>Parliament,</hi> though they freed him from <hi>Priſon,</hi> and put his <hi>Adverſary</hi> in his roome. Tell him of <hi>Reformation,</hi> and you transforme him to a <hi>Turkie-cock;</hi> A <hi>Jack-a-Lent</hi> made of a <hi>Red Herring</hi> and a <hi>Leek,</hi> will not more inflame him than the name of <hi>Presbytery:</hi> So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e kind Heart take this <hi>Incendiary</hi> and coole him, or vexation will conſume him to Aſhes.</p>
+            <p>But I wonder how it comes to paſſe that <hi>Armagh</hi> ſhou'd be Ranked here: The caſe ſtood otherwiſe once; nay, he <hi>Ebb'd</hi> ſo far from his <hi>Archiepiſcopall</hi> dignity, as to turne <hi>Lecturer,</hi> and ſo brought himſelfe into a poſſibility of <hi>Heaven,</hi> till the old man began to dote upon the <hi>World</hi> again. I cannot tell to what I might attribute his <hi>Apoſtacy;</hi> to his <hi>Climate,</hi> or his <hi>Conſcience;</hi> his <hi>Country,</hi> or his <hi>Religion,</hi> or both; yet we have found him a right <hi>Iriſh-man,</hi> and a ſecond <hi>Spalato.</hi>
+            </p>
+            <p>It is a rare <hi>Myſtery,</hi> that this <hi>Pageant</hi> ſhould be ſo perſecuted by the <hi>Re<g ref="char:EOLhyphen"/>bels,</hi> as to fly for his life out of <hi>Ireland,</hi> and yet be able to digeſt them and their <hi>Counſels</hi> at <hi>Oxford.</hi> But was it ever ſeen, that a <hi>Biſhop</hi> would be out with any that were in at the <hi>Court?</hi> This is the <hi>Prelates</hi> heaven; there they are all <hi>Parallel;</hi> though diſtant in their ends, as in the <hi>Circumference,</hi> yet united in the <hi>Center:</hi> Give their Ambition <hi>Line</hi> enough, and you may <hi>De-Coy</hi> them whither you pleaſe: Thus our <hi>quondam Saint Patrick</hi> ſlip't into the <hi>Bogge</hi> at <hi>Oxford.</hi>
+            </p>
+            <p>I ſhould have done with them now, but that I find another in over head and eares; I mean the <hi>Brew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> in <hi>Pontificalibus, Duppa</hi> the formall <hi>Dray-horſe,</hi> that carries about <hi>Holy-water</hi> in <hi>Rundlets,</hi> to furniſh the <hi>Court, Camp,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſit: Davis</hi> the <hi>Barber</hi> ſhaves his <hi>Majesty</hi> with the very ſame; for there need no <hi>waſh-bals,</hi> when the <hi>Exorciſme</hi> ſcours beyond <hi>Sope-ſuds.</hi> This is he that puts down <hi>Gunter</hi> in his <hi>Fire-work Proteſtations</hi> againſt the <hi>Protestant</hi> Religion; and then (in His <hi>Majeſties</hi> name) charges them upon the <hi>People.</hi> For the ſame purpoſe alſo he frames <hi>Enchanted Prayers</hi> for <hi>Chriſt-Church</hi> Chappell; and ſo makes the <hi>Organs</hi> (at once) <hi>pipe</hi> out Impiety againſt <hi>Heaven,</hi> and Treaſon againſt the <hi>State.</hi> God bleſſe Prince <hi>Charles,</hi> for this is his <hi>Tutor:</hi> He cries to him, when you pray, ſay thus; but what? A <hi>Pater-noſter</hi> or two,
+<pb n="5" facs="tcp:112956:3"/>with a little <hi>Collect</hi> and <hi>Letany,</hi> after the <hi>Tradition</hi> of his <hi>Fathers;</hi> from which (my <hi>Letany</hi> ſhall be) <hi>Good Lord deliver him.</hi>
+            </p>
+            <p>But if you would know him better, let <hi>Stewart</hi> (the Ghoſt of <hi>Arminius</hi>) appeare, to bring in the <hi>Cataſtrophe:</hi> Theſe two are <hi>Brothers,</hi> both having the <hi>Whore of Babylon</hi> for their <hi>Mother:</hi> and the ſons of <hi>Pelagius</hi> by <hi>hereticall adoption.</hi> The foundation of old <hi>Rome</hi> (ſaith <hi>Hiſtory</hi>) was laid in blood; and theſe <hi>Romuli</hi> take the ſame courſe to be <hi>Founders</hi> of new <hi>Rome</hi> here in <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> The name of <hi>Peace</hi> puts them into a <hi>Fit</hi> of the <hi>Colick;</hi> It ſtings like a <hi>Tarantida,</hi> for nothing will cure them but the <hi>Muſick</hi> of <hi>warre.</hi>
+            </p>
+            <p>Now ſound aloud; Avaunt ye <hi>Black-coats,</hi> the <hi>Court-Pag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ants</hi> are Entring; <hi>Straford</hi> without a <hi>Head:</hi> But let him p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe for a <hi>Dionbe ſhow;</hi> the <hi>Tyrant</hi> hath had his <hi>Exit</hi> already by <hi>Order</hi> of <hi>Parliament.</hi>
+            </p>
+            <p>Who comes next? What, <hi>Henrieta Maria!</hi> Sure our <hi>Incendiary</hi> is an <hi>Her<g ref="char:EOLhyphen"/>maphrodite,</hi> and admits of both <hi>Sexes:</hi> The <hi>Iriſh Rebels</hi> call Her their <hi>Gene<g ref="char:EOLhyphen"/>raliſſima;</hi> what Shee willed they acted: Shee ſet them on worke, and they pay themſelves their wages out of the <hi>Proteſtants</hi> eſtates. Becauſe the <hi>Pope</hi> is turned out of dores, She makes the <hi>Fatall Siſters</hi> and <hi>Furi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> of her. <hi>Privy-Councell,</hi> and proceeds ſo meritoriouſly manfull, that <hi>Kenelne Dighy</hi> con<g ref="char:EOLhyphen"/>ſults now with <hi>His Holineſſe,</hi> to have her ſet in the <hi>Rubrick</hi> by the name of <hi>Saint Nemeſis in Breeches.</hi> How many <hi>Breeding Fits</hi> hath ſhee had ſince the comming over of <hi>Madam Bel-dame!</hi> And no ſooner <hi>Deliver'd</hi> of one <hi>Plot,</hi> but within the <hi>Moneth</hi> a <hi>Conception</hi> of another. I wonder at <hi>Neptune's</hi> rage againſt theſe two, <hi>Mother</hi> and <hi>Daughter;</hi> for they never croſſed the <hi>Sea</hi> but a <hi>Tem<g ref="char:EOLhyphen"/>peſt</hi> followed; which ſhewes, that they were not of the <hi>Halcyon</hi> Brood.</p>
+            <p>But the Flame riſes not high enough yet; therefore haſten away the two <hi>Bellowes-menders</hi> from <hi>Holland; Rupert</hi> and <hi>Maurice, Simeon</hi> and <hi>Levi:</hi> A miracle, that a <hi>Phoenix</hi> ſhould bring forth two ſuch <hi>Vipers!</hi> If this be too bold, know that the <hi>Gaine</hi> is begun, and then <hi>all fellowes at Foot-ball:</hi> But I ſpare them, though they are ſo unnaturall, as not to ſpare that <hi>Nation</hi> which bred them up.</p>
+            <p>Next, enter a <hi>Gentleman</hi> in diſguiſe, newly landed out of the ſhip called the <hi>Providence; Achitophel Junior,</hi> with ſtore of <hi>Sampſon's Foxes</hi> and <hi>Fire<g ref="char:EOLhyphen"/>brands:</hi> Pull off his <hi>Vizard,</hi> and his name is <hi>George Digby.</hi> This is the beard<g ref="char:EOLhyphen"/>leſſe <hi>Solon; Lycurgus</hi> newly whip't out of <hi>long-Coats</hi> into the <hi>Privy Councell;</hi> Treacherie's <hi>Man-midwife,</hi> and <hi>Machiavel's Catamite;</hi> for by him were <hi>ſpaw<g ref="char:EOLhyphen"/>ned</hi> thoſe deſperate <hi>Aphoriſmes</hi> and <hi>Poſitions,</hi> of his <hi>Majeſtie's</hi> wandring from his <hi>Parliament.</hi> What we wonder at in the reſt is naturall to him, being a native <hi>Spaniard,</hi> to have an <hi>Antipathy</hi> to the weale of our <hi>Nation;</hi> for an <hi>A<g ref="char:EOLhyphen"/>theiſt</hi> that hath neither <hi>Religion,</hi> nor <hi>Conſcience</hi> to ſway him, followes the <hi>Conſtitution</hi> and engrafted <hi>Principles</hi> of his <hi>Climate.</hi> The truth of this they knew well enough, that fetch't him out of the <hi>Senate</hi> to the <hi>Court;</hi> and the <hi>Spaniſh Guilt-head</hi> ſwallowed the <hi>Bait</hi> immediatly: <hi>Faces about;</hi> fare-well to <hi>Religion, Honour, Parliament, Common-honeſty,</hi> and all; for he waited but for ſuch an <hi>opportunity,</hi> as well as <hi>Colepeper</hi> and <hi>Dering,</hi> though the latter miſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it.</p>
+            <pb n="6" facs="tcp:112956:4"/>
+            <p>More <hi>Spaniards</hi> yet? <hi>Briſtoll</hi> and <hi>Cortington,</hi> Rare <hi>Peccadillo's!</hi> Impes of <hi>Sp<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>le;</hi> two of <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndemar's</hi> Jockies, that poſted between <hi>White-hall</hi> and <hi>Matr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ill at length they morgaged <hi>England</hi> with the <hi>Proteſtant</hi> Religion, for a penſion of <hi>Spaniſh Gom<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> and <hi>Barres of Silver;</hi> which they have ſtri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en ſince to repay, together with the <hi>Intereſt</hi> of pernicious <hi>Counſels</hi> and ſecret <hi>Practiſes.</hi> Upon a Return of the <hi>Indian Plate-fleet,</hi> theſe <hi>Hirelings</hi> will do any thing, even ſacrifice their <hi>Country</hi> to thoſe <hi>Gods</hi> of <hi>America.</hi>
+            </p>
+            <p>Here comes a Gentleman of the <hi>Long-Robe; Littleton,</hi> the egregious <hi>Pick-pocket,</hi> that would have ſtollen away the Kingdomes <hi>Purſe</hi> from the <hi>Parliament;</hi> which renders him, by the <hi>known Lawes,</hi> a moſt intolerable <hi>Traytour.</hi> He promiſes His <hi>Majeſty</hi> to make all good by <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw;</hi> but firſt in<g ref="char:EOLhyphen"/>tends to baniſh <hi>Dalton, Cooke,</hi> and the reſt, as <hi>Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erodox, Petty-foggers,</hi> and <hi>Sparious Authors.</hi> If no body will beleeve he can maintain the Slaunder of <hi>Revels,</hi> yet his Impudence can diſdain all ſuch <hi>Scruples,</hi> though with <hi>Argu<g ref="char:EOLhyphen"/>ments</hi> grounded upon a manifeſt <hi>Contradiction</hi> to the States <hi>Fundamentals.</hi>
+            </p>
+            <p>What he cannot do, <hi>Heath</hi> will: This <hi>Tetter</hi> converſes altogether with <hi>Old out-worn Records,</hi> to make good the <hi>Caſe:</hi> He might do well then to come and ſearch in the <hi>Tower,</hi> if he dare venture his neck upon the <hi>Point,</hi> in a <hi>legall Triall.</hi> In him we find it true, that <hi>an old man is twice a child;</hi> for he ſtands in feare of every <hi>bigger Boy</hi> at Court: Beſide, he makes a ſine <hi>Hob<g ref="char:EOLhyphen"/>by-horſe</hi> of the <hi>Prerogative;</hi> and tricks it ever and anon with illegall <hi>Richards.</hi> Hee procreates <hi>Proclamations</hi> alſo in private, yet avowes the Spurious Iſſue as legitimate as <hi>Acts of Parliament,</hi> and ſo <hi>(upon pain of high diſplea<g ref="char:EOLhyphen"/>ſure)</hi> the ſubjects muſt own them; like the needy <hi>Fornicator,</hi> that layes his <hi>Bra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> at other mens doors.</p>
+            <p>There are more <hi>Adulterers</hi> of the <hi>Law;</hi> but ſtay, here's a <hi>Poaſt</hi> come to <hi>Town</hi> with ill <hi>Newes:</hi> Oh, <hi>Briſtol, Briſtol</hi> is loſt! Up ſtarts the <hi>Jewes;</hi> Weſt ward hoy! Off goes their <hi>Parliament-purple,</hi> and away to <hi>Oxford.</hi> This rotten Limbe of the <hi>Repreſentative Body</hi> boaſts it ſelf as healthfull and ſound as the whole; and having been <hi>Catechiz'd</hi> a while at <hi>Court,</hi> would anſwer to no Name but PARLIAMENT. O prodigious! Nay, the <hi>R<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> Conventicle had the Impudence to ſit and <hi>Vote</hi> the Kingdom Slaves; and for this, thought themſelves highly recompenced with a <hi>Smile</hi> or two, from the <hi>Supreme P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ticoa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</hi> No heaven now but there; they <hi>offer Incenſe</hi> to Traytors, and have the conſcience to Idolize and <hi>Iriſh Rebel,</hi> a murtherer of <hi>Prueſtants;</hi> imitating herein the naked <hi>Indians,</hi> who worſhip the <hi>De<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l</hi> for deſtroying their <hi>Kindred</hi>
+            </p>
+            <p>But the beſt of it is, this <hi>Fire-work</hi> never did much miſchiefe, though all wayes have been tryed, from the <hi>Squib</hi> to the Cannon; for they ne<g ref="char:EOLhyphen"/>ver durſt ſtand to it yet: Alwayes in motion; the Curſe of <hi>Cain</hi> purſue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, as a juſt reward, that theſe who choſe to live, ſhould alſo dye <hi>Run-aga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s.</hi>
+            </p>
+            <p>What think yee then of <hi>Mon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oſſe?</hi> This <hi>Lapwing-Incen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y</hi> ran away <hi>balſe-hatch's</hi> from <hi>Oxford,</hi> to raiſe a Combuſtion in <hi>Scotland:</hi> As his To<g ref="char:EOLhyphen"/>tors in <hi>England,</hi> ſo he thrives beſt there, where is moſt <hi>Ignorance.</hi> He raked
+<pb n="7" facs="tcp:112956:4"/>up the <hi>Remains</hi> of ancient <hi>Barbariſme,</hi> and ſouder'd them togethen with <hi>Creatures</hi> of like <hi>Mettall</hi> from <hi>Ireland;</hi> the very <hi>Droſſe</hi> of both Cou<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coagulated into an <hi>Army.</hi> The firſt ſight of them would convert a <hi>Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ducee,</hi> and make him confeſſe a <hi>Reſurrection</hi> of the old Heathen <hi>Picts</hi> and <hi>Kerns:</hi> Strange names they have! And ſhould: <hi>Herald</hi> venture to reckon the <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nealogy,</hi> he might he taken for a <hi>Conjure<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> The repetition of twenty <hi>Mac's O Connor's, O Brian's,</hi> and <hi>O Donnel's,</hi> were a <hi>Charme</hi> for the <hi>G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> on an <hi>Ague,</hi> beyond all the <hi>Magneticks</hi> in <hi>Chymiſtry.</hi>
+            </p>
+            <p>This <hi>Mountainous Breed</hi> of <hi>Pagans,</hi> like the old <hi>earth-born, Giants,</hi> figh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt <hi>Heaven,</hi> bidding defiance to <hi>Chriſt</hi> and his <hi>Goſpell;</hi> concerning which they know no more than what belongs to <hi>Blaſphemy:</hi> Miſerable then is that <hi>Prince,</hi> who counts ſuch his beſt Subjects! Moſt abominable is that <hi>Cauſe,</hi> which cannot ſtand but with ſuch <hi>Supporters!</hi> Of late they <hi>Domincer'd</hi> with Superlative <hi>Tyranny,</hi> and had in conceit ſwallowed all <hi>Scotland,</hi> but now the <hi>Monſters</hi> ſurfeit, with their owne bloud, And if eyer they recover. their <hi>Stomacks,</hi> it will be but for a <hi>running Banquet.</hi>
+            </p>
+            <p>There's <hi>Orm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd</hi> too, the <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gling</hi> Marquis, the new <hi>Popin-Jay</hi> Duke, and (to give him all his Titles) <hi>Lord Protector</hi> of the Rebels; for the <hi>Wolves,</hi> are brought now into the ſame <hi>Fold</hi> with the <hi>Sheep.</hi> They ſay commonly, now, that there's not a <hi>Rebel</hi> in <hi>Ireland:</hi> Are they not good men then at <hi>Oxford,</hi> to fight ſo long till they have left never a <hi>Rebel?</hi> But the late Peace confirmes them <hi>good Subjects,</hi> though <hi>Rebels</hi> before: Thus, by entertaining this <hi>Paradox</hi> for Truth, the <hi>Pie-bald</hi> Marquis got his Dukedome of <hi>Oſſory.</hi>
+            </p>
+            <p>
+               <hi>Antrim</hi>'s a <hi>Rebel</hi> not worth the naming, nor that precious peece of <hi>Iron<g ref="char:EOLhyphen"/>work,</hi> his <hi>Dutches;</hi> yet I muſt needs ſay, Shee was a <hi>Lady</hi> rarely mark't out for two eminent <hi>Husbands,</hi> the beds of <hi>Buckingham</hi> and <hi>Antrim;</hi> this latter more pernicious than a bed of <hi>Scorpions.</hi>
+            </p>
+            <p>Yet there's one <hi>Marquis</hi> more, a wiſe one (God wot,) <hi>Wincheſter,</hi> the man of <hi>Baſing;</hi> but let him paſſe, he has not wit enough to be an <hi>Incendia<g ref="char:EOLhyphen"/>ry.</hi> And for <hi>Newcaſtle,</hi> He's but a <hi>Counterfeit Marquis;</hi> at the beſt but a <hi>Play-wright;</hi> one of <hi>Apollo's Whirligigs;</hi> one that when he ſhould be fight<g ref="char:EOLhyphen"/>ing, would be <hi>fornicating</hi> with the <hi>Nine Muſes,</hi> or the Deane of <hi>York</hi>'s daugh<g ref="char:EOLhyphen"/>ters; a very <hi>Thing;</hi> a Soule traducted out of <hi>Perfume</hi> and <hi>Complement;</hi> a ſilken <hi>Generall,</hi> that ran away <hi>beyond Sea</hi> in a <hi>Sayler</hi>'s Canvas: He with his <hi>Tinder-box</hi> of Authority, firſt lighted the Fire in the <hi>North,</hi> yet was ſo kind to ſee it <hi>quench't</hi> again, ere he left us.</p>
+            <p>But the Weſter<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> quib (<hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>) bolds <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtills and r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beyond <hi>Gun<g ref="char:EOLhyphen"/>powder</hi> with <hi>Aqua vilae;</hi> but there are other <hi>Ingredi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts</hi> of <hi>Atheiſme</hi> joyned to him, which make the <hi>Blaze</hi> in the <hi>Weſt</hi> ſhew ſo big, for he of himſelfe is nothing now: The man lives toward the <hi>Sun-ſetting,</hi> treads <hi>Antipodes</hi> of late to Victory, and deſpairs of appearing <hi>Eaſt</hi> again; yet to comfort him, becauſe the <hi>Parliament</hi> lay claime to his <hi>Bald-pate,</hi> the <hi>King</hi> hath given him a <hi>Perewigg</hi> of <hi>Honour.</hi>
+            </p>
+            <p>I had almoſt forgotten <hi>Goring,</hi> Her Majeſties <hi>Jeweller;</hi> Shee plunder'd
+<pb n="8" facs="tcp:112956:5"/>the <hi>Crowne,</hi> and he conveyed away, converting all into <hi>Armes,</hi> and <hi>Gun<g ref="char:EOLhyphen"/>powder:</hi> Rare Philoſophicall tranſinutation! But this is the leaſt part of his skill; for in time of <hi>Peace</hi> hee was ſo expert an <hi>Alchemiſt,</hi> that hee turned <hi>Rags</hi> and worſe things, into <hi>Gold</hi> and <hi>Silver.</hi>
+            </p>
+            <p>There's butcherly <hi>Jermyn</hi> too, contemptible <hi>Harry,</hi> the left Leg of a <hi>Lord;</hi> He that wraps up his <hi>Treaſon</hi> in fine Linnen: He <hi>Maſter of the Horſe?</hi> Mount the <hi>Chicken</hi> upon an <hi>Elephant;</hi> for he's a man of ſome <hi>Subſtance,</hi> though little <hi>Revenue;</hi> ſomewhat too ugly (in my opinion) for a Ladies <hi>Favourite,</hi> yet that's nothing to ſome; for the <hi>old Lady</hi> that dyed in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> regarded not the <hi>Feature.</hi> This <hi>Feather-bed</hi> Traytor muſt paſſe alſo for an <hi>Incendiary;</hi> for <hi>Juſtice</hi> put the <hi>Gentleman</hi> into ſuch a <hi>Fright,</hi> that to make one <hi>Shift</hi> he avoyded another, and at an ill <hi>Seaſon</hi> took his long Jour<g ref="char:EOLhyphen"/>ney in <hi>Spaniſh-leather</hi> Boots.</p>
+            <p>There are other <hi>Whelps</hi> of <hi>Catiline;</hi> but it were endleſſe to reckon up all. I ſhall conclude thus: What the <hi>Poets</hi> feigne of <hi>Hercules</hi> his <hi>Hydra,</hi> is truth of our <hi>Incendiary;</hi> It is a fertile <hi>Monſter of many heads,</hi> for by lopping off one, up ſtarts a <hi>miraculous generation</hi> of many more: Then, as it cannot be imagined how he conquer'd that <hi>prodigious Enemy,</hi> but by ſtriking off all the <hi>Heads</hi> at a <hi>Blow;</hi> So the ready way to quell this, muſt be to bring the whole <hi>Rabble</hi> at once to <hi>Excecution.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London <hi>printed for</hi> Robert White.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
